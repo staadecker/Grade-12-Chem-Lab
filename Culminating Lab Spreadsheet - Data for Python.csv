@@ -1,0 +1,464 @@
+Part,Mass of variable,Time (s),Mass (g),Energy absorbed by the water (J),Percent of mass consumed
+Variable oxidizer,0g of oxidizer,0.0,0.00,0.0,0.00%
+Variable oxidizer,0g of oxidizer,4.0,0.15,,7.89%
+Variable oxidizer,0g of oxidizer,5.0,0.11,,5.79%
+Variable oxidizer,0g of oxidizer,8.0,,0.0,
+Variable oxidizer,0g of oxidizer,9.5,0.22,,11.58%
+Variable oxidizer,0g of oxidizer,13.0,0.23,,12.11%
+Variable oxidizer,0g of oxidizer,13.5,0.31,,16.32%
+Variable oxidizer,0g of oxidizer,14.0,0.29,,15.26%
+Variable oxidizer,0g of oxidizer,16.0,,0.0,
+Variable oxidizer,0g of oxidizer,17.0,0.37,,19.47%
+Variable oxidizer,0g of oxidizer,18.5,0.38,,20.00%
+Variable oxidizer,0g of oxidizer,19.5,0.46,,24.21%
+Variable oxidizer,0g of oxidizer,25.5,,627.9,
+Variable oxidizer,0g of oxidizer,27.5,0.59,,31.05%
+Variable oxidizer,0g of oxidizer,29.0,0.61,,32.11%
+Variable oxidizer,0g of oxidizer,31.0,0.66,,34.74%
+Variable oxidizer,0g of oxidizer,32.5,0.69,,36.32%
+Variable oxidizer,0g of oxidizer,33.5,0.78,,41.05%
+Variable oxidizer,0g of oxidizer,35.0,0.74,,38.95%
+Variable oxidizer,0g of oxidizer,37.0,0.76,,40.00%
+Variable oxidizer,0g of oxidizer,41.5,,627.9,
+Variable oxidizer,0g of oxidizer,42.5,0.92,,48.42%
+Variable oxidizer,0g of oxidizer,43.5,0.91,,47.89%
+Variable oxidizer,0g of oxidizer,45.5,0.96,,50.53%
+Variable oxidizer,0g of oxidizer,47.0,0.99,,52.11%
+Variable oxidizer,0g of oxidizer,49.7,,627.9,
+Variable oxidizer,0g of oxidizer,52.5,1.06,,55.79%
+Variable oxidizer,0g of oxidizer,53.5,1.11,,58.42%
+Variable oxidizer,0g of oxidizer,55.0,1.10,,57.89%
+Variable oxidizer,0g of oxidizer,56.0,1.14,,60.00%
+Variable oxidizer,0g of oxidizer,57.5,1.14,,60.00%
+Variable oxidizer,0g of oxidizer,59.5,1.19,,62.63%
+Variable oxidizer,0g of oxidizer,60.0,,1255.8,
+Variable oxidizer,0g of oxidizer,64.5,1.25,,65.79%
+Variable oxidizer,0g of oxidizer,66.0,1.24,,65.26%
+Variable oxidizer,0g of oxidizer,67.0,1.38,,72.63%
+Variable oxidizer,0g of oxidizer,68.5,1.35,,71.05%
+Variable oxidizer,0g of oxidizer,69.5,1.34,,70.53%
+Variable oxidizer,0g of oxidizer,71.0,1.41,,74.21%
+Variable oxidizer,0g of oxidizer,72.0,1.38,,72.63%
+Variable oxidizer,0g of oxidizer,82.0,,1569.8,
+Variable oxidizer,0g of oxidizer,84.5,,1883.7,
+Variable oxidizer,0g of oxidizer,86.0,1.57,,82.63%
+Variable oxidizer,0g of oxidizer,87.0,1.62,,85.26%
+Variable oxidizer,0g of oxidizer,88.5,1.63,,85.79%
+Variable oxidizer,0g of oxidizer,91.0,1.63,,85.79%
+Variable oxidizer,0g of oxidizer,92.5,1.64,,86.32%
+Variable oxidizer,0g of oxidizer,93.5,1.67,,87.89%
+Variable oxidizer,0g of oxidizer,96.5,,1883.7,
+Variable oxidizer,0g of oxidizer,98.0,1.71,,90.00%
+Variable oxidizer,0g of oxidizer,99.5,1.79,,94.21%
+Variable oxidizer,0g of oxidizer,100.5,1.76,,92.63%
+Variable oxidizer,0g of oxidizer,102.5,1.77,,93.16%
+Variable oxidizer,0g of oxidizer,105.0,,2197.7,
+Variable oxidizer,0g of oxidizer,106.5,1.81,,95.26%
+Variable oxidizer,0g of oxidizer,108.5,1.82,,95.79%
+Variable oxidizer,0g of oxidizer,111.5,1.83,,96.32%
+Variable oxidizer,0g of oxidizer,113.0,1.84,,96.84%
+Variable oxidizer,0g of oxidizer,114.5,1.87,,98.42%
+Variable oxidizer,0g of oxidizer,117.5,,2511.6,
+Variable oxidizer,0g of oxidizer,119.5,1.89,,99.47%
+Variable oxidizer,0g of oxidizer,121.0,1.90,2511.6,100.00%
+Variable oxidizer,0.2g of oxidizer,0.0,0.00,0.0,0.00%
+Variable oxidizer,0.2g of oxidizer,3.0,0.10,,5.35%
+Variable oxidizer,0.2g of oxidizer,4.5,0.13,,6.95%
+Variable oxidizer,0.2g of oxidizer,6.5,0.18,,9.63%
+Variable oxidizer,0.2g of oxidizer,7.5,0.22,,11.76%
+Variable oxidizer,0.2g of oxidizer,9.0,0.24,,12.83%
+Variable oxidizer,0.2g of oxidizer,10.0,0.27,,14.44%
+Variable oxidizer,0.2g of oxidizer,12.0,0.35,,18.72%
+Variable oxidizer,0.2g of oxidizer,14.0,,1465.1,
+Variable oxidizer,0.2g of oxidizer,16.5,,1883.7,
+Variable oxidizer,0.2g of oxidizer,18.0,0.54,,28.88%
+Variable oxidizer,0.2g of oxidizer,20.5,,1883.7,
+Variable oxidizer,0.2g of oxidizer,22.0,0.57,,30.48%
+Variable oxidizer,0.2g of oxidizer,23.0,0.60,,32.09%
+Variable oxidizer,0.2g of oxidizer,25.0,,1883.7,
+Variable oxidizer,0.2g of oxidizer,26.5,0.63,,33.69%
+Variable oxidizer,0.2g of oxidizer,28.0,0.69,,36.90%
+Variable oxidizer,0.2g of oxidizer,29.0,0.75,,40.11%
+Variable oxidizer,0.2g of oxidizer,30.5,0.77,,41.18%
+Variable oxidizer,0.2g of oxidizer,32.5,,1883.7,
+Variable oxidizer,0.2g of oxidizer,33.5,0.85,,45.45%
+Variable oxidizer,0.2g of oxidizer,35.0,0.87,,46.52%
+Variable oxidizer,0.2g of oxidizer,37.5,,2302.3,
+Variable oxidizer,0.2g of oxidizer,39.0,0.90,,48.13%
+Variable oxidizer,0.2g of oxidizer,40.0,0.98,,52.41%
+Variable oxidizer,0.2g of oxidizer,41.0,1.00,,53.48%
+Variable oxidizer,0.2g of oxidizer,45.0,,2720.9,
+Variable oxidizer,0.2g of oxidizer,47.0,1.11,,59.36%
+Variable oxidizer,0.2g of oxidizer,48.5,1.12,,59.89%
+Variable oxidizer,0.2g of oxidizer,51.5,,3139.5,
+Variable oxidizer,0.2g of oxidizer,52.5,1.23,,65.78%
+Variable oxidizer,0.2g of oxidizer,53.5,1.22,,65.24%
+Variable oxidizer,0.2g of oxidizer,55.0,1.25,,66.84%
+Variable oxidizer,0.2g of oxidizer,57.5,,3558.1,
+Variable oxidizer,0.2g of oxidizer,59.5,1.34,,71.66%
+Variable oxidizer,0.2g of oxidizer,61.0,1.35,,72.19%
+Variable oxidizer,0.2g of oxidizer,62.0,1.36,,72.73%
+Variable oxidizer,0.2g of oxidizer,65.5,,3976.7,
+Variable oxidizer,0.2g of oxidizer,67.0,1.47,,78.61%
+Variable oxidizer,0.2g of oxidizer,69.0,1.49,,79.68%
+Variable oxidizer,0.2g of oxidizer,70.0,1.52,,81.28%
+Variable oxidizer,0.2g of oxidizer,72.0,,4395.3,
+Variable oxidizer,0.2g of oxidizer,75.5,,4813.9,
+Variable oxidizer,0.2g of oxidizer,77.0,1.67,,89.30%
+Variable oxidizer,0.2g of oxidizer,78.0,1.68,,89.84%
+Variable oxidizer,0.2g of oxidizer,80.0,1.69,,90.37%
+Variable oxidizer,0.2g of oxidizer,83.5,,4813.9,
+Variable oxidizer,0.2g of oxidizer,85.5,1.78,,95.19%
+Variable oxidizer,0.2g of oxidizer,86.5,1.84,,98.40%
+Variable oxidizer,0.2g of oxidizer,88.5,1.84,,98.40%
+Variable oxidizer,0.2g of oxidizer,90.5,1.88,,100.53%
+Variable oxidizer,0.2g of oxidizer,92.0,,5232.5,
+Variable oxidizer,0.2g of oxidizer,93.5,1.87,,100.00%
+Variable oxidizer,0.2g of oxidizer,94.0,1.89,,101.07%
+Variable oxidizer,0.2g of oxidizer,96.5,1.89,,101.07%
+Variable oxidizer,0.2g of oxidizer,97.5,1.87,5232.5,100.00%
+Variable oxidizer,0.6g of oxidizer,0.0,0.00,0.0,0.00%
+Variable oxidizer,0.6g of oxidizer,4.0,0.08,,4.17%
+Variable oxidizer,0.6g of oxidizer,6.5,,0.0,
+Variable oxidizer,0.6g of oxidizer,7.5,0.14,,7.29%
+Variable oxidizer,0.6g of oxidizer,8.5,0.17,,8.85%
+Variable oxidizer,0.6g of oxidizer,10.5,0.19,,9.90%
+Variable oxidizer,0.6g of oxidizer,11.5,0.22,,11.46%
+Variable oxidizer,0.6g of oxidizer,12.0,0.27,,14.06%
+Variable oxidizer,0.6g of oxidizer,14.5,,418.6,
+Variable oxidizer,0.6g of oxidizer,15.0,,837.2,
+Variable oxidizer,0.6g of oxidizer,16.0,,1255.8,
+Variable oxidizer,0.6g of oxidizer,18.0,0.40,,20.83%
+Variable oxidizer,0.6g of oxidizer,19.0,0.46,,23.96%
+Variable oxidizer,0.6g of oxidizer,21.5,0.49,,25.52%
+Variable oxidizer,0.6g of oxidizer,23.5,,2093.0,
+Variable oxidizer,0.6g of oxidizer,25.5,0.55,,28.65%
+Variable oxidizer,0.6g of oxidizer,27.0,0.63,,32.81%
+Variable oxidizer,0.6g of oxidizer,28.0,0.65,,33.85%
+Variable oxidizer,0.6g of oxidizer,30.0,,2093.0,
+Variable oxidizer,0.6g of oxidizer,31.0,0.68,,35.42%
+Variable oxidizer,0.6g of oxidizer,32.0,0.75,,39.06%
+Variable oxidizer,0.6g of oxidizer,33.0,0.76,,39.58%
+Variable oxidizer,0.6g of oxidizer,34.5,0.81,,42.19%
+Variable oxidizer,0.6g of oxidizer,37.5,,2093.0,
+Variable oxidizer,0.6g of oxidizer,39.0,0.84,,43.75%
+Variable oxidizer,0.6g of oxidizer,40.0,0.91,,47.40%
+Variable oxidizer,0.6g of oxidizer,41.0,0.92,,47.92%
+Variable oxidizer,0.6g of oxidizer,42.5,0.93,,48.44%
+Variable oxidizer,0.6g of oxidizer,45.0,,2930.2,
+Variable oxidizer,0.6g of oxidizer,46.0,0.99,,51.56%
+Variable oxidizer,0.6g of oxidizer,47.5,1.04,,54.17%
+Variable oxidizer,0.6g of oxidizer,48.5,1.06,,55.21%
+Variable oxidizer,0.6g of oxidizer,49.5,1.07,,55.73%
+Variable oxidizer,0.6g of oxidizer,50.5,1.13,,58.85%
+Variable oxidizer,0.6g of oxidizer,54.0,,3139.5,
+Variable oxidizer,0.6g of oxidizer,55.0,1.25,,65.10%
+Variable oxidizer,0.6g of oxidizer,56.0,1.27,,66.15%
+Variable oxidizer,0.6g of oxidizer,57.5,1.28,,66.67%
+Variable oxidizer,0.6g of oxidizer,58.5,1.38,,71.88%
+Variable oxidizer,0.6g of oxidizer,60.0,1.37,,71.35%
+Variable oxidizer,0.6g of oxidizer,61.0,1.36,,70.83%
+Variable oxidizer,0.6g of oxidizer,63.0,1.37,,71.35%
+Variable oxidizer,0.6g of oxidizer,64.0,1.38,,71.88%
+Variable oxidizer,0.6g of oxidizer,66.0,,3348.8,
+Variable oxidizer,0.6g of oxidizer,67.0,1.47,,76.56%
+Variable oxidizer,0.6g of oxidizer,68.0,1.48,,77.08%
+Variable oxidizer,0.6g of oxidizer,69.0,1.49,,77.60%
+Variable oxidizer,0.6g of oxidizer,70.0,1.56,,81.25%
+Variable oxidizer,0.6g of oxidizer,70.5,1.56,,81.25%
+Variable oxidizer,0.6g of oxidizer,72.0,1.57,,81.77%
+Variable oxidizer,0.6g of oxidizer,73.5,1.59,,82.81%
+Variable oxidizer,0.6g of oxidizer,74.0,1.60,,83.33%
+Variable oxidizer,0.6g of oxidizer,75.5,1.69,,88.02%
+Variable oxidizer,0.6g of oxidizer,76.0,1.73,,90.10%
+Variable oxidizer,0.6g of oxidizer,78.0,,3767.4,
+Variable oxidizer,0.6g of oxidizer,79.5,1.76,,91.67%
+Variable oxidizer,0.6g of oxidizer,81.0,1.76,,91.67%
+Variable oxidizer,0.6g of oxidizer,83.0,1.77,,92.19%
+Variable oxidizer,0.6g of oxidizer,86.5,1.83,,95.31%
+Variable oxidizer,0.6g of oxidizer,87.5,1.86,,96.88%
+Variable oxidizer,0.6g of oxidizer,90.0,,,
+Variable oxidizer,0.6g of oxidizer,92.5,,3976.7,
+Variable oxidizer,0.6g of oxidizer,93.5,1.92,3767.4,100.00%
+Variable oxidizer,0.8g of oxidizer,0.0,0,0,0.0%
+Variable oxidizer,0.8g of oxidizer,4.5,0.12,,5.4%
+Variable oxidizer,0.8g of oxidizer,5.0,0.17,,7.7%
+Variable oxidizer,0.8g of oxidizer,6.0,0.18,,8.1%
+Variable oxidizer,0.8g of oxidizer,7.5,,0,
+Variable oxidizer,0.8g of oxidizer,11.0,0.36,,16.2%
+Variable oxidizer,0.8g of oxidizer,12.0,0.37,,16.7%
+Variable oxidizer,0.8g of oxidizer,14.0,,0,
+Variable oxidizer,0.8g of oxidizer,15.0,0.39,,17.6%
+Variable oxidizer,0.8g of oxidizer,16.0,0.4,,18.0%
+Variable oxidizer,0.8g of oxidizer,16.5,0.46,,20.7%
+Variable oxidizer,0.8g of oxidizer,17.5,0.48,,21.6%
+Variable oxidizer,0.8g of oxidizer,18.0,0.49,,22.1%
+Variable oxidizer,0.8g of oxidizer,19.0,0.5,,22.5%
+Variable oxidizer,0.8g of oxidizer,19.5,0.51,,23.0%
+Variable oxidizer,0.8g of oxidizer,20.0,0.52,,23.4%
+Variable oxidizer,0.8g of oxidizer,21.0,0.53,,23.9%
+Variable oxidizer,0.8g of oxidizer,21.5,0.54,,24.3%
+Variable oxidizer,0.8g of oxidizer,22.0,0.55,,24.8%
+Variable oxidizer,0.8g of oxidizer,24.0,,627.9,
+Variable oxidizer,0.8g of oxidizer,25.5,0.63,,28.4%
+Variable oxidizer,0.8g of oxidizer,26.0,0.64,,28.8%
+Variable oxidizer,0.8g of oxidizer,26.5,0.65,,29.3%
+Variable oxidizer,0.8g of oxidizer,27.5,0.71,,32.0%
+Variable oxidizer,0.8g of oxidizer,28.0,0.72,,32.4%
+Variable oxidizer,0.8g of oxidizer,29.0,0.73,,32.9%
+Variable oxidizer,0.8g of oxidizer,31.5,,1046.5,
+Variable oxidizer,0.8g of oxidizer,33.5,0.83,,37.4%
+Variable oxidizer,0.8g of oxidizer,34.0,0.84,,37.8%
+Variable oxidizer,0.8g of oxidizer,35.0,0.85,,38.3%
+Variable oxidizer,0.8g of oxidizer,35.5,0.88,,39.6%
+Variable oxidizer,0.8g of oxidizer,36.5,0.9,,40.5%
+Variable oxidizer,0.8g of oxidizer,37.5,0.9,,40.5%
+Variable oxidizer,0.8g of oxidizer,39.0,0.94,,42.3%
+Variable oxidizer,0.8g of oxidizer,40.0,0.95,,42.8%
+Variable oxidizer,0.8g of oxidizer,42.0,,1674.4,
+Variable oxidizer,0.8g of oxidizer,43.0,1.1,,49.5%
+Variable oxidizer,0.8g of oxidizer,44.0,1.11,,50.0%
+Variable oxidizer,0.8g of oxidizer,49.5,1.22,,55.0%
+Variable oxidizer,0.8g of oxidizer,52.0,1.25,,56.3%
+Variable oxidizer,0.8g of oxidizer,53.0,1.27,,57.2%
+Variable oxidizer,0.8g of oxidizer,54.0,1.31,,59.0%
+Variable oxidizer,0.8g of oxidizer,56.0,,2511.6,
+Variable oxidizer,0.8g of oxidizer,59.0,1.46,,65.8%
+Variable oxidizer,0.8g of oxidizer,61.0,1.47,,66.2%
+Variable oxidizer,0.8g of oxidizer,62.0,1.49,,67.1%
+Variable oxidizer,0.8g of oxidizer,63.0,1.5,,67.6%
+Variable oxidizer,0.8g of oxidizer,66.0,,2930.2,
+Variable oxidizer,0.8g of oxidizer,68.0,1.71,,77.0%
+Variable oxidizer,0.8g of oxidizer,69.0,1.71,,77.0%
+Variable oxidizer,0.8g of oxidizer,70.0,1.77,,79.7%
+Variable oxidizer,0.8g of oxidizer,72.0,1.86,,83.8%
+Variable oxidizer,0.8g of oxidizer,72.5,1.8,,81.1%
+Variable oxidizer,0.8g of oxidizer,73.0,1.91,,86.0%
+Variable oxidizer,0.8g of oxidizer,73.5,1.92,,86.5%
+Variable oxidizer,0.8g of oxidizer,75.5,,3348.8,
+Variable oxidizer,0.8g of oxidizer,78.0,2.16,,97.3%
+Variable oxidizer,0.8g of oxidizer,79.0,2.19,,98.6%
+Variable oxidizer,0.8g of oxidizer,80.0,2.22,3976.7,100.0%
+Variable catalyst,0 g of catalyst,0.0,0.00,0.0,0.00%
+Variable catalyst,0 g of catalyst,3.0,,,
+Variable catalyst,0 g of catalyst,10.5,0.33,,15.79%
+Variable catalyst,0 g of catalyst,11.5,0.35,,16.75%
+Variable catalyst,0 g of catalyst,12.5,0.37,,17.70%
+Variable catalyst,0 g of catalyst,14.5,,418.6,
+Variable catalyst,0 g of catalyst,16.0,,837.2,
+Variable catalyst,0 g of catalyst,16.5,0.48,,22.97%
+Variable catalyst,0 g of catalyst,17.5,0.49,,23.44%
+Variable catalyst,0 g of catalyst,19.0,0.59,,28.23%
+Variable catalyst,0 g of catalyst,20.0,0.60,,28.71%
+Variable catalyst,0 g of catalyst,20.5,0.59,,28.23%
+Variable catalyst,0 g of catalyst,21.0,0.61,,29.19%
+Variable catalyst,0 g of catalyst,23.0,,1255.8,
+Variable catalyst,0 g of catalyst,24.0,0.69,,33.01%
+Variable catalyst,0 g of catalyst,25.0,0.70,,33.49%
+Variable catalyst,0 g of catalyst,25.5,0.71,,33.97%
+Variable catalyst,0 g of catalyst,26.0,0.73,,34.93%
+Variable catalyst,0 g of catalyst,26.5,0.74,,35.41%
+Variable catalyst,0 g of catalyst,27.5,0.79,,37.80%
+Variable catalyst,0 g of catalyst,28.0,0.80,,38.28%
+Variable catalyst,0 g of catalyst,31.5,,1883.7,
+Variable catalyst,0 g of catalyst,34.0,0.96,,45.93%
+Variable catalyst,0 g of catalyst,34.5,0.99,,47.37%
+Variable catalyst,0 g of catalyst,36.5,1.10,,52.63%
+Variable catalyst,0 g of catalyst,37.5,1.12,,53.59%
+Variable catalyst,0 g of catalyst,39.5,,2511.6,
+Variable catalyst,0 g of catalyst,41.5,1.11,,53.11%
+Variable catalyst,0 g of catalyst,42.5,1.12,,53.59%
+Variable catalyst,0 g of catalyst,43.5,1.19,,56.94%
+Variable catalyst,0 g of catalyst,45.0,1.25,,59.81%
+Variable catalyst,0 g of catalyst,46.5,,2930.2,
+Variable catalyst,0 g of catalyst,48.0,1.37,,65.55%
+Variable catalyst,0 g of catalyst,49.0,1.37,,65.55%
+Variable catalyst,0 g of catalyst,51.0,1.47,,70.33%
+Variable catalyst,0 g of catalyst,52.0,1.43,,68.42%
+Variable catalyst,0 g of catalyst,54.5,,3348.8,
+Variable catalyst,0 g of catalyst,56.0,1.61,,77.03%
+Variable catalyst,0 g of catalyst,57.0,1.61,,77.03%
+Variable catalyst,0 g of catalyst,59.5,1.69,,80.86%
+Variable catalyst,0 g of catalyst,61.0,1.71,,81.82%
+Variable catalyst,0 g of catalyst,62.5,,3558.1,
+Variable catalyst,0 g of catalyst,64.0,1.85,,88.52%
+Variable catalyst,0 g of catalyst,65.0,1.90,,90.91%
+Variable catalyst,0 g of catalyst,66.0,1.91,,91.39%
+Variable catalyst,0 g of catalyst,67.0,1.92,,91.87%
+Variable catalyst,0 g of catalyst,68.0,1.93,,92.34%
+Variable catalyst,0 g of catalyst,69.0,1.95,,93.30%
+Variable catalyst,0 g of catalyst,70.5,1.96,,93.78%
+Variable catalyst,0 g of catalyst,71.0,2.00,,95.69%
+Variable catalyst,0 g of catalyst,72.5,2.10,,100.48%
+Variable catalyst,0 g of catalyst,73.0,2.16,,103.35%
+Variable catalyst,0 g of catalyst,73.5,2.09,4186.0,100.00%
+Variable catalyst,0.3g of catalyst,0.0,0.00,0.0,0.00%
+Variable catalyst,0.3g of catalyst,2.0,-0.10,,-4.39%
+Variable catalyst,0.3g of catalyst,6.0,0.10,,4.39%
+Variable catalyst,0.3g of catalyst,7.0,0.12,,5.31%
+Variable catalyst,0.3g of catalyst,8.0,0.13,,5.77%
+Variable catalyst,0.3g of catalyst,8.5,0.15,,6.70%
+Variable catalyst,0.3g of catalyst,10.0,0.17,,7.62%
+Variable catalyst,0.3g of catalyst,11.0,0.27,,12.24%
+Variable catalyst,0.3g of catalyst,12.5,0.29,,13.16%
+Variable catalyst,0.3g of catalyst,14.0,,418.6,
+Variable catalyst,0.3g of catalyst,15.0,0.30,,13.63%
+Variable catalyst,0.3g of catalyst,17.0,,,
+Variable catalyst,0.3g of catalyst,20.0,0.58,,26.56%
+Variable catalyst,0.3g of catalyst,21.0,0.59,,27.02%
+Variable catalyst,0.3g of catalyst,22.0,0.60,,27.48%
+Variable catalyst,0.3g of catalyst,23.5,0.61,,27.94%
+Variable catalyst,0.3g of catalyst,26.5,,837.2,
+Variable catalyst,0.3g of catalyst,31.5,0.91,,41.80%
+Variable catalyst,0.3g of catalyst,32.5,0.90,,41.34%
+Variable catalyst,0.3g of catalyst,34.5,,1255.8,
+Variable catalyst,0.3g of catalyst,36.5,0.98,,45.03%
+Variable catalyst,0.3g of catalyst,37.5,0.99,,45.50%
+Variable catalyst,0.3g of catalyst,39.0,1.03,,47.34%
+Variable catalyst,0.3g of catalyst,40.0,1.08,,49.65%
+Variable catalyst,0.3g of catalyst,43.0,,1255.8,
+Variable catalyst,0.3g of catalyst,47.0,1.26,,57.97%
+Variable catalyst,0.3g of catalyst,48.0,1.28,,58.89%
+Variable catalyst,0.3g of catalyst,49.0,1.31,,60.28%
+Variable catalyst,0.3g of catalyst,52.0,,1674.4,
+Variable catalyst,0.3g of catalyst,55.0,1.50,,69.05%
+Variable catalyst,0.3g of catalyst,56.0,1.50,,69.05%
+Variable catalyst,0.3g of catalyst,60.0,,2511.6,
+Variable catalyst,0.3g of catalyst,61.0,1.61,,74.13%
+Variable catalyst,0.3g of catalyst,62.5,1.63,,75.06%
+Variable catalyst,0.3g of catalyst,64.5,1.70,,78.29%
+Variable catalyst,0.3g of catalyst,65.5,1.72,,79.21%
+Variable catalyst,0.3g of catalyst,66.5,1.75,,80.60%
+Variable catalyst,0.3g of catalyst,68.0,1.76,,81.06%
+Variable catalyst,0.3g of catalyst,70.0,1.86,,85.68%
+Variable catalyst,0.3g of catalyst,72.0,,2930.2,
+Variable catalyst,0.3g of catalyst,74.0,1.90,,87.53%
+Variable catalyst,0.3g of catalyst,75.0,1.92,,88.45%
+Variable catalyst,0.3g of catalyst,76.0,1.93,,88.91%
+Variable catalyst,0.3g of catalyst,78.0,1.98,,91.22%
+Variable catalyst,0.3g of catalyst,80.5,2.07,,95.38%
+Variable catalyst,0.3g of catalyst,82.0,2.06,,94.92%
+Variable catalyst,0.3g of catalyst,83.5,2.10,,96.77%
+Variable catalyst,0.3g of catalyst,84.5,2.13,,98.15%
+Variable catalyst,0.3g of catalyst,88.0,2.21,,101.85%
+Variable catalyst,0.3g of catalyst,90.0,2.15,,99.08%
+Variable catalyst,0.3g of catalyst,92.0,2.17,3767.4,100.00%
+Variable catalyst,0.5g of catalyst,0.0,0.00,0.0,0.00%
+Variable catalyst,0.5g of catalyst,1.0,,,
+Variable catalyst,0.5g of catalyst,3.5,,,
+Variable catalyst,0.5g of catalyst,8.0,,,
+Variable catalyst,0.5g of catalyst,9.5,0.10,,4.30%
+Variable catalyst,0.5g of catalyst,10.5,0.40,,16.95%
+Variable catalyst,0.5g of catalyst,11.5,0.59,,24.96%
+Variable catalyst,0.5g of catalyst,13.0,0.64,,27.07%
+Variable catalyst,0.5g of catalyst,14.5,0.65,,27.49%
+Variable catalyst,0.5g of catalyst,16.5,,2093.0,
+Variable catalyst,0.5g of catalyst,18.0,0.77,,32.55%
+Variable catalyst,0.5g of catalyst,19.0,0.79,,33.39%
+Variable catalyst,0.5g of catalyst,19.5,0.85,,35.92%
+Variable catalyst,0.5g of catalyst,20.0,0.84,,35.50%
+Variable catalyst,0.5g of catalyst,20.5,0.86,,36.34%
+Variable catalyst,0.5g of catalyst,22.0,,2511.6,
+Variable catalyst,0.5g of catalyst,22.5,0.94,,39.71%
+Variable catalyst,0.5g of catalyst,24.0,0.96,,40.56%
+Variable catalyst,0.5g of catalyst,25.0,0.99,,41.82%
+Variable catalyst,0.5g of catalyst,25.5,1.02,,43.09%
+Variable catalyst,0.5g of catalyst,26.0,1.03,,43.51%
+Variable catalyst,0.5g of catalyst,28.0,,2720.9,
+Variable catalyst,0.5g of catalyst,29.5,1.09,,46.04%
+Variable catalyst,0.5g of catalyst,30.0,1.10,,46.46%
+Variable catalyst,0.5g of catalyst,30.5,1.17,,49.41%
+Variable catalyst,0.5g of catalyst,31.0,1.18,,49.83%
+Variable catalyst,0.5g of catalyst,31.5,1.19,,50.25%
+Variable catalyst,0.5g of catalyst,33.0,,2930.2,
+Variable catalyst,0.5g of catalyst,34.0,1.27,,53.63%
+Variable catalyst,0.5g of catalyst,35.0,1.29,,54.47%
+Variable catalyst,0.5g of catalyst,36.5,1.29,,54.47%
+Variable catalyst,0.5g of catalyst,37.5,1.32,,55.73%
+Variable catalyst,0.5g of catalyst,38.0,1.33,,56.16%
+Variable catalyst,0.5g of catalyst,38.5,1.38,,58.26%
+Variable catalyst,0.5g of catalyst,41.0,,3767.4,
+Variable catalyst,0.5g of catalyst,42.0,1.46,,61.64%
+Variable catalyst,0.5g of catalyst,42.5,1.47,,62.06%
+Variable catalyst,0.5g of catalyst,43.5,1.52,,64.17%
+Variable catalyst,0.5g of catalyst,45.5,1.55,,65.43%
+Variable catalyst,0.5g of catalyst,47.5,1.60,,67.54%
+Variable catalyst,0.5g of catalyst,48.5,1.63,,68.80%
+Variable catalyst,0.5g of catalyst,51.5,,4186.0,
+Variable catalyst,0.5g of catalyst,53.0,1.79,,75.55%
+Variable catalyst,0.5g of catalyst,53.5,1.80,,75.97%
+Variable catalyst,0.5g of catalyst,55.5,1.84,,77.66%
+Variable catalyst,0.5g of catalyst,56.0,1.91,,80.61%
+Variable catalyst,0.5g of catalyst,57.0,1.93,,81.45%
+Variable catalyst,0.5g of catalyst,58.5,1.94,,81.87%
+Variable catalyst,0.5g of catalyst,60.0,1.95,,82.29%
+Variable catalyst,0.5g of catalyst,63.5,,4604.6,
+Variable catalyst,0.5g of catalyst,65.0,2.05,,86.51%
+Variable catalyst,0.5g of catalyst,66.0,2.10,,88.62%
+Variable catalyst,0.5g of catalyst,67.0,2.13,,89.88%
+Variable catalyst,0.5g of catalyst,67.5,2.16,,91.15%
+Variable catalyst,0.5g of catalyst,68.5,2.17,,91.57%
+Variable catalyst,0.5g of catalyst,70.5,2.19,,92.41%
+Variable catalyst,0.5g of catalyst,71.5,,4604.6,
+Variable catalyst,0.5g of catalyst,73.5,2.27,,95.78%
+Variable catalyst,0.5g of catalyst,74.5,2.29,,96.63%
+Variable catalyst,0.5g of catalyst,75.5,2.30,,97.05%
+Variable catalyst,0.5g of catalyst,76.5,2.32,,97.89%
+Variable catalyst,0.5g of catalyst,78.0,2.37,,100.00%
+Variable catalyst,0.5g of catalyst,78.5,2.36,,99.58%
+Variable catalyst,0.5g of catalyst,80.0,2.37,5023.2,100.00%
+Variable catalyst,0.7g of catalyst,0.0,0.00,0.0,0.00%
+Variable catalyst,0.7g of catalyst,2.0,,,
+Variable catalyst,0.7g of catalyst,3.5,,,
+Variable catalyst,0.7g of catalyst,5.5,,,
+Variable catalyst,0.7g of catalyst,11.5,,627.9,
+Variable catalyst,0.7g of catalyst,12.5,0.84,,31.77%
+Variable catalyst,0.7g of catalyst,14.0,0.85,,32.15%
+Variable catalyst,0.7g of catalyst,15.0,,1046.5,
+Variable catalyst,0.7g of catalyst,16.5,0.95,,35.94%
+Variable catalyst,0.7g of catalyst,18.5,0.99,,37.45%
+Variable catalyst,0.7g of catalyst,19.5,1.03,,38.97%
+Variable catalyst,0.7g of catalyst,21.0,1.09,,41.24%
+Variable catalyst,0.7g of catalyst,22.0,1.11,,42.00%
+Variable catalyst,0.7g of catalyst,24.0,,2302.3,
+Variable catalyst,0.7g of catalyst,25.5,1.21,,45.79%
+Variable catalyst,0.7g of catalyst,26.5,1.23,,46.55%
+Variable catalyst,0.7g of catalyst,28.0,1.29,,48.82%
+Variable catalyst,0.7g of catalyst,29.0,1.31,,49.58%
+Variable catalyst,0.7g of catalyst,31.0,,2302.3,
+Variable catalyst,0.7g of catalyst,32.0,1.37,,51.86%
+Variable catalyst,0.7g of catalyst,33.0,1.41,,53.37%
+Variable catalyst,0.7g of catalyst,34.0,1.46,,55.27%
+Variable catalyst,0.7g of catalyst,36.0,1.49,,56.41%
+Variable catalyst,0.7g of catalyst,38.0,1.55,,58.68%
+Variable catalyst,0.7g of catalyst,40.0,,2302.3,
+Variable catalyst,0.7g of catalyst,42.0,1.65,,62.47%
+Variable catalyst,0.7g of catalyst,43.0,1.66,,62.85%
+Variable catalyst,0.7g of catalyst,44.0,1.67,,63.23%
+Variable catalyst,0.7g of catalyst,46.0,,,
+Variable catalyst,0.7g of catalyst,47.0,,2720.9,
+Variable catalyst,0.7g of catalyst,49.0,1.77,,67.02%
+Variable catalyst,0.7g of catalyst,50.5,1.82,,68.92%
+Variable catalyst,0.7g of catalyst,51.5,1.89,,71.57%
+Variable catalyst,0.7g of catalyst,53.0,1.91,,72.33%
+Variable catalyst,0.7g of catalyst,55.5,,3348.8,
+Variable catalyst,0.7g of catalyst,57.0,,3558.1,
+Variable catalyst,0.7g of catalyst,58.5,2.03,,76.88%
+Variable catalyst,0.7g of catalyst,59.0,2.05,,77.63%
+Variable catalyst,0.7g of catalyst,60.0,2.12,,80.29%
+Variable catalyst,0.7g of catalyst,62.0,2.14,,81.05%
+Variable catalyst,0.7g of catalyst,63.0,2.16,,81.80%
+Variable catalyst,0.7g of catalyst,64.0,2.21,,83.70%
+Variable catalyst,0.7g of catalyst,66.0,,3976.7,
+Variable catalyst,0.7g of catalyst,67.0,2.30,,87.11%
+Variable catalyst,0.7g of catalyst,69.0,2.31,,87.49%
+Variable catalyst,0.7g of catalyst,70.0,2.37,,89.76%
+Variable catalyst,0.7g of catalyst,71.0,2.40,,90.90%
+Variable catalyst,0.7g of catalyst,72.0,2.41,,91.28%
+Variable catalyst,0.7g of catalyst,75.5,,4395.3,
+Variable catalyst,0.7g of catalyst,77.0,2.49,,94.31%
+Variable catalyst,0.7g of catalyst,78.5,2.54,,96.21%
+Variable catalyst,0.7g of catalyst,79.5,2.59,,98.10%
+Variable catalyst,0.7g of catalyst,84.0,2.59,,98.10%
+Variable catalyst,0.7g of catalyst,86.0,,4395.3,
+Variable catalyst,0.7g of catalyst,86.5,2.64,4395.3,100.00%
